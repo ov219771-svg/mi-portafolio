@@ -53,3 +53,7 @@ git push origin nombre-rama
 ## Captura del proyecto
 
 ![Captura del proyecto](../img/captura.png)
+
+## Resultado
+
+La guia permite entender de forma sencilla como se trabajo el proyecto y los principales comandos utilizados.
